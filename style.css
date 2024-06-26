@@ -1,0 +1,48 @@
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 15vmin;
+}
+.container{
+    border: 1px solid purple;
+    align-items: center;
+    width: 52vmin;
+    height: 68vmin;
+}
+button{
+    width: 8vmin;
+    height: 8vmin;
+    margin: 1vmin;
+    font-size: xx-large;
+
+}
+.buttons{
+    margin-left: 3vmin;
+    border: 1px solid purple;
+
+    margin-right: 3vmin;
+    height:  50vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.INPUT{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 15vmin;
+}
+#numbers{
+    width: 37vmin;
+    height: 6vmin;
+    margin-top: 4vmin;
+    font-size:6vmin;
+}
+
+
+
+
+
+
